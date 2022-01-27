@@ -12,7 +12,19 @@
   </ul>
 </p>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-hellmers/)
+<p align='center'>
+  
+  <a href="mailto:jhellmers@wisc.edu?subject=Found%20Your%20Github%20Profile">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jackson-hellmers/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/jacksonhellmers11/?hl=en">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
                      
 
 

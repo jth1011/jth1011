@@ -44,7 +44,7 @@
 
 <p align="center">
   <a>
-    See What I'm Listening To On Spotify!
+    See What I'm Listening To On Spotify! <br>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=x19pseni1c7n0yt3ep7cyh63k&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" />
   </a>
 </p>

@@ -38,6 +38,9 @@
   <a href="https://www.instagram.com/jacksonhellmers11/?hl=en">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/x19pseni1c7n0yt3ep7cyh63k">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />        
+  </a>&nbsp;&nbsp;
   
 </p>
                      

@@ -4,8 +4,8 @@
 
 <p align='center'>
   <ul>
-  My interests include using Machine Learning algorithms in the areas of Image Processing and Computer Vision
-  I am currently completing my Master's Degree at University of Wisconsin - Madison where I am focusing on Machine Learning and Data Science.
+     <li> My interests include using Machine Learning algorithms in the areas of Image Processing and Computer Vision. </li>
+     <li> I am currently completing my Master's Degree at University of Wisconsin - Madison where I am focusing on Machine Learning and Data Science. </li>
   </ul>
 </p>
 

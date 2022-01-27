@@ -1,9 +1,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jth1011.jth1011&left_color=gray&right_color=red)
 
-- 👋 Hi, I’m @jth1011
+- 👋 Hi, I’m Jackson
 
 - My interests include using Machine Learning algorithms in the areas of Image Processing and Computer Vision
-- I am currently completing my Master's Degree at University of Wisconsin - Madison where I am focusing on Machine Learning and Signal Processing.
+- I am currently completing my Master's Degree at University of Wisconsin - Madison where I am focusing on Machine Learning and Data Science.
 
 - Feel free to reach me on my LinkedIn: https://www.linkedin.com/in/jackson-hellmers/
                            or by email: jhellmers@wisc.edu                         

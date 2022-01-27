@@ -24,6 +24,7 @@
   <ul>
      <li> My interests include using Machine Learning algorithms in the areas of Image Processing and Computer Vision. </li>
      <li> I am currently completing my Master's Degree at University of Wisconsin - Madison where I am focusing on Machine Learning and Data Science. </li>
+     <li> Looking to enter industry as a Data Scientist or Machine Learning Engineer in Spring 22'. </li>
   </ul>
 </p>
 

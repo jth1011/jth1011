@@ -1,4 +1,19 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jth1011.jth1011&left_color=gray&right_color=red)
+<p align='center'>
+  
+  <a>
+    <img src="https://badges.pufler.dev/visits/jth1011/jth1011" />        
+  </a>&nbsp;&nbsp;
+  <a>
+    <img src="https://badges.pufler.dev/years/jth1011" />
+  </a>&nbsp;&nbsp;
+  <a>
+    <img src="https://badges.pufler.dev/repos/jth1011" />        
+  </a>&nbsp;&nbsp;
+  <a>
+    <img src="https://badges.pufler.dev/commits/monthly/jth1011" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 
 <h1 align='center'>

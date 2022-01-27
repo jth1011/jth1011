@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jth1011.jth1011&left_color=black&right_color=red)
+
 - 👋 Hi, I’m @jth1011
 
 - My interests include using Machine Learning algorithms in the areas of Image Processing and Computer Vision
@@ -6,7 +8,6 @@
 - Feel free to reach me on my LinkedIn: https://www.linkedin.com/in/jackson-hellmers/
                            or by email: jhellmers@wisc.edu
                            
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jth1011.jth1011&left_color=green&right_color=red)
                            
 See What I'm Listening To On Spotify!
 

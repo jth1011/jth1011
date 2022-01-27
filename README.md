@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jth1011.jth1011&left_color=black&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jth1011.jth1011&left_color=&right_color=F50022)
 
 - 👋 Hi, I’m @jth1011
 

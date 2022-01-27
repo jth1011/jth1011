@@ -28,6 +28,8 @@
   </ul>
 </p>
 
+<br>
+
 <p align='center'>
   
   <a href="mailto:jhellmers@wisc.edu?subject=Found%20Your%20Github%20Profile">
@@ -45,6 +47,7 @@
   
 </p>
                      
+<br>
 
 <p align="center">
   <a>

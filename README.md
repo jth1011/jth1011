@@ -44,10 +44,9 @@
 
 
 
-<p align="center">
 See What I'm Listening To On Spotify!
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x19pseni1c7n0yt3ep7cyh63k&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</p>
+
 
 <!---
 jth1011/jth1011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,16 @@
+<h1 align='center'>
+  Hi there 👋 I'm Jackson 👨‍💻
+</h1>
+
+<p align='center'>
+  <ul>
+  My interests include using Machine Learning algorithms in the areas of Image Processing and Computer Vision
+  I am currently completing my Master's Degree at University of Wisconsin - Madison where I am focusing on Machine Learning and Data Science.
+  </ul>
+</p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jth1011.jth1011&left_color=gray&right_color=red)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-hellmers/)
-
-## Hi, I’m Jackson
-
-* My interests include using Machine Learning algorithms in the areas of Image Processing and Computer Vision
-* I am currently completing my Master's Degree at University of Wisconsin - Madison where I am focusing on Machine Learning and Data Science.
                      
 
 

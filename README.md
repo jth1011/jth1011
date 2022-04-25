@@ -24,7 +24,7 @@
   <ul>
      <li> My interests include using Machine Learning algorithms in the areas of Image Processing and Computer Vision. </li>
      <li> I am currently completing my Master's Degree at University of Wisconsin - Madison where I am focusing on Machine Learning and Data Science. </li>
-     <li> Looking to enter industry as a Data Scientist or Machine Learning Engineer in Spring 22'. </li>
+     <li> Starting a position as a Machine Learning Engineer at Milwaukee Tool in Spring 2022. </li>
   </ul>
 </p>
 
@@ -37,9 +37,6 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jackson-hellmers/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jacksonhellmers11/?hl=en">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/x19pseni1c7n0yt3ep7cyh63k">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />        

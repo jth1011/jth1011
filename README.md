@@ -23,7 +23,7 @@
 <p align='center'>
   <ul>
      <li> My interests include using Tiny Machine Learning algorithms for the application of ML in embedded systems. </li>
-     <li> I am have completed my Master's Degree in Electrical and Computer Engineering at University of Wisconsin - Madison where I am focused on Machine Learning and Data Science. </li>
+     <li> I am have completed my Master's Degree in Electrical and Computer Engineering at University of Wisconsin - Madison where I focused on Machine Learning and Signal Processing. </li>
      <li> I have been working as a Machine Learning Engineer at Milwaukee Tool since May 2022. </li>
   </ul>
 </p>

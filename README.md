@@ -32,7 +32,7 @@
 
 <p align='center'>
   
-  <a href="mailto:jhellmers@wisc.edu?subject=Found%20Your%20Github%20Profile">
+  <a href="mailto:github-profile@jhellmers.net?subject=Found%20Your%20Github%20Profile">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jackson-hellmers/">

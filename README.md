@@ -22,9 +22,9 @@
 
 <p align='center'>
   <ul>
-     <li> My interests include using Machine Learning algorithms in the areas of Image Processing and Computer Vision. </li>
-     <li> I am currently completing my Master's Degree at University of Wisconsin - Madison where I am focusing on Machine Learning and Data Science. </li>
-     <li> Starting a position as a Machine Learning Engineer at Milwaukee Tool in Spring 2022. </li>
+     <li> My interests include using Tiny Machine Learning algorithms for the application of ML in embedded systems. </li>
+     <li> I am have completed my Master's Degree in Electrical and Computer Engineering at University of Wisconsin - Madison where I am focused on Machine Learning and Data Science. </li>
+     <li> I have been working as a Machine Learning Engineer at Milwaukee Tool since May 2022. </li>
   </ul>
 </p>
 
